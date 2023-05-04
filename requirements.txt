@@ -109,7 +109,7 @@ filedepot==0.5.2
 filelock==3.9.0
 filteralchemy-fork==0.1.0
 flasgger==0.9.5
-Flask==2.0.3
+Flask==2.2.5
 Flask-Classful==0.15.0.dev1
 Flask-KVSession-fork==0.6.4
 Flask-Limiter==2.6.2
