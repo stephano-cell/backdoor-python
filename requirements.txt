@@ -289,7 +289,7 @@ pyExploitDb==0.2.6
 pyfiglet==0.8.post0
 pygame==2.1.2
 pygexf==0.2.2
-Pygments==2.14.0
+Pygments==2.15.0
 PyGObject==3.42.2
 pygraphviz==1.7
 PyHamcrest==2.0.3
