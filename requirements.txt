@@ -71,7 +71,7 @@ commonmark==0.9.1
 configobj==5.0.8
 constantly==15.1.0
 crackmapexec==5.4.0
-cryptography==38.0.4
+cryptography==41.0.2
 cryptography37==37.0.2
 cvss==2.4
 cycler==0.11.0
