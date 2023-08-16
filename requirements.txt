@@ -407,7 +407,7 @@ theHarvester==4.2.0
 tld==0.11.11
 tls-parser==1.2.2
 tomli==2.0.1
-tornado==6.2
+tornado==6.3.3
 tqdm==4.64.1
 traitlets==5.5.0
 translationstring==1.4
