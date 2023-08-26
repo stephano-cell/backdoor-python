@@ -317,7 +317,7 @@ PyQt5-sip==12.11.1
 PyQt6==6.4.2
 PyQt6-sip==13.4.1
 pyqtgraph==0.13.1
-pyramid==2.0
+pyramid==2.0.2
 pyrsistent==0.18.1
 pyserial==3.5
 pyShodan==0.2.6
