@@ -85,7 +85,7 @@ dicttoxml==1.7.15
 diskcache==5.4.0
 distlib==0.3.6
 distro==1.8.0
-Django==3.2.18
+Django==3.2.23
 dnslib==0.9.23
 dnspython==2.3.0
 docopt==0.6.2
@@ -252,7 +252,7 @@ pgcli==3.5.0
 pgspecial==2.0.1
 phonenumbers==8.12.57
 pickleshare==0.7.5
-Pillow==9.4.0
+Pillow==10.0.0
 plaster==1.0
 plaster-pastedeploy==0.5
 platformdirs==2.6.0
@@ -407,7 +407,7 @@ theHarvester==4.2.0
 tld==0.11.11
 tls-parser==1.2.2
 tomli==2.0.1
-tornado==6.2
+tornado==6.3.3
 tqdm==4.64.1
 traitlets==5.5.0
 translationstring==1.4
@@ -441,7 +441,7 @@ WebOb==1.8.6
 websocket-client==1.2.3
 websockets==10.4
 websockify==0.10.0
-Werkzeug==2.2.2
+Werkzeug==3.0.1
 wfuzz==3.1.0
 whois==0.8
 wifite==2.6.6
