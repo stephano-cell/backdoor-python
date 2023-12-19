@@ -237,7 +237,7 @@ ospd-openvas==22.4.6
 packaging==23.0
 paho-mqtt==1.6.1
 pandas==1.5.3
-paramiko==2.12.0
+paramiko==3.4.0
 parso==0.8.3
 passlib==1.7.4
 Paste==3.5.2
