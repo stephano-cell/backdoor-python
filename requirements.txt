@@ -279,7 +279,7 @@ pyasn1-modules==0.2.8
 pycairo==1.20.1
 pycares==4.3.0
 pycparser==2.21
-pycryptodomex==3.11.0
+pycryptodomex==3.19.1
 pycurl==7.45.2
 pydantic==1.10.4
 PyDispatcher==2.0.5
