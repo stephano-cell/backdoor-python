@@ -85,7 +85,7 @@ dicttoxml==1.7.15
 diskcache==5.4.0
 distlib==0.3.6
 distro==1.8.0
-Django==3.2.18
+Django==3.2.24
 dnslib==0.9.23
 dnspython==2.3.0
 docopt==0.6.2
