@@ -87,7 +87,7 @@ distlib==0.3.6
 distro==1.8.0
 Django==3.2.18
 dnslib==0.9.23
-dnspython==2.3.0
+dnspython==2.6.0rc1
 docopt==0.6.2
 donut-shellcode==0.9.3
 dropbox==11.34.0
